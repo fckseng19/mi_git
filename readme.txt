@@ -1,1 +1,1 @@
-praticando mi git
+praticando mi git, implementando nuevos cambios como practica.
