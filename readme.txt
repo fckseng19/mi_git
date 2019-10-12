@@ -1,1 +1,1 @@
-praticando mi git, implementando nuevos cambios como practica.
+que pasa si cambio todo
